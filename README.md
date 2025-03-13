@@ -32,23 +32,23 @@
 <h2> A Showcase of My Journey into Tech:&#128513; </h2>
 - <b>Microsoft Azure</b>
  <ul>
-   <li> <a href="https://github.com/k-mccoy/traffic-az"> Azure Virtual Network Traffic Analysis & Security  </li>
-   <li> <a href="https://github.com/k-mccoy/deploy-active-directory"> Configuring On-premises Active Directory within Azure VMs </li>
+   <li> <a href="https://github.com/k-mccoy11/traffic-az"> Azure Virtual Network Traffic Analysis & Security  </li>
+   <li> <a href="https://github.com/k-mccoy11/deploy-active-directory"> Configuring On-premises Active Directory within Azure VMs </li>
  </ul> 
 - <b> osTicket (Help Desk Ticketing System)</b>
  <ul>
-   <li> <a href="https://github.com/k-mccoy/osticket-prereqs"> osTicket: Prerequisites and Installation </li>
-   <li> <a href="https://github.com/k-mccoy/post-install-osticket"> osTicket: Post-Installation Configuration </li>
-   <li> <a href="https://github.com/k-mccoy/ticket-lifecycle"> osTicket: Ticket Lifecycle Examples </li>
+   <li> <a href="https://github.com/k-mccoy11/osticket-prereqs"> osTicket: Prerequisites and Installation </li>
+   <li> <a href="https://github.com/k-mccoy11/post-install-osticket"> osTicket: Post-Installation Configuration </li>
+   <li> <a href="https://github.com/k-mccoy11/ticket-lifecycle"> osTicket: Ticket Lifecycle Examples </li>
  </ul>
 - <b> Quality Assurance </b>
  <ul>
-   <li> <a href="https://github.com/k-mccoy/SDLC"> Software Development Lifecycle: Agile/Scrum </li>
-   <li> <a href="https://github.com/k-mccoy/bug-tracking">Defect Lifecycle </li>
+   <li> <a href="https://github.com/k-mccoy11/SDLC"> Software Development Lifecycle: Agile/Scrum </li>
+   <li> <a href="https://github.com/k-mccoy11/bug-tracking">Defect Lifecycle </li>
  </ul>
 - <b> Virtual Private Network</b>
   <ul>
-    <li> <a href="https://github.com/k-mccoy/vpn">Virtual Private Network: Prerequisites and Installation </li>
+    <li> <a href="https://github.com/k-mccoy11/vpn">Virtual Private Network: Prerequisites and Installation </li>
   </ul>
 
 <h3> &#129321; Let's Connect! :</h3>

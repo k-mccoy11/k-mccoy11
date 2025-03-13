@@ -33,12 +33,12 @@
 - <b>Microsoft Azure</b>
  <ul>
    <li> <a href="https://github.com/k-mccoy/traffic-az"> Azure Virtual Network Traffic Analysis & Security  </li>
-   <li> <a href="https://github.com/k-mccoy/"> Configuring On-premises Active Directory within Azure VMs </li>
+   <li> <a href="https://github.com/k-mccoy/deploy-active-directory"> Configuring On-premises Active Directory within Azure VMs </li>
  </ul> 
 - <b> osTicket (Help Desk Ticketing System)</b>
  <ul>
    <li> <a href="https://github.com/k-mccoy/osticket-prereqs"> osTicket: Prerequisites and Installation </li>
-   <li> <a href="https://github.com/k-mccoy/post-install"> osTicket: Post-Installation Configuration </li>
+   <li> <a href="https://github.com/k-mccoy/post-install-osticket"> osTicket: Post-Installation Configuration </li>
    <li> <a href="https://github.com/k-mccoy/ticket-lifecycle"> osTicket: Ticket Lifecycle Examples </li>
  </ul>
 - <b> Quality Assurance </b>

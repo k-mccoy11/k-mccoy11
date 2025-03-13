@@ -32,23 +32,23 @@
 <h2> A Showcase of My Journey into Tech:&#128513; </h2>
 - <b>Microsoft Azure</b>
  <ul>
-   <li> <a href="https://github.com/kmccoytech/traffic_az"> Azure Virtual Network Traffic Analysis & Security  </li>
-   <li> <a href="https://github.com/kmccoytech/azure-network-pro"> Configuring On-premises Active Directory within Azure VMs </li>
+   <li> <a href="https://github.com/k-mccoy/traffic-az"> Azure Virtual Network Traffic Analysis & Security  </li>
+   <li> <a href="https://github.com/k-mccoy/"> Configuring On-premises Active Directory within Azure VMs </li>
  </ul> 
 - <b> osTicket (Help Desk Ticketing System)</b>
  <ul>
-   <li> <a href="https://github.com/kmccoytech/osticket-prereqs"> osTicket: Prerequisites and Installation </li>
-   <li> <a href="https://github.com/kmccoytech/post-install"> osTicket: Post-Installation Configuration </li>
-   <li> <a href="https://github.com/kmccoytech/ticket-lifecycle"> osTicket: Ticket Lifecycle Examples </li>
+   <li> <a href="https://github.com/k-mccoy/osticket-prereqs"> osTicket: Prerequisites and Installation </li>
+   <li> <a href="https://github.com/k-mccoy/post-install"> osTicket: Post-Installation Configuration </li>
+   <li> <a href="https://github.com/k-mccoy/ticket-lifecycle"> osTicket: Ticket Lifecycle Examples </li>
  </ul>
 - <b> Quality Assurance </b>
  <ul>
-   <li> <a href="https://github.com/kmccoytech/SDLC"> Software Development Lifecycle: Agile/Scrum </li>
-   <li> <a href="https://github.com/kmccoytech/bug-tracking">Defect Lifecycle </li>
+   <li> <a href="https://github.com/k-mccoy/SDLC"> Software Development Lifecycle: Agile/Scrum </li>
+   <li> <a href="https://github.com/k-mccoy/bug-tracking">Defect Lifecycle </li>
  </ul>
 - <b> Virtual Private Network</b>
   <ul>
-    <li> <a href="https://github.com/kmccoytech/vpn-azure">Virtual Private Network: Prerequisites and Installation </li>
+    <li> <a href="https://github.com/k-mccoy/vpn">Virtual Private Network: Prerequisites and Installation </li>
   </ul>
 
 <h3> &#129321; Let's Connect! :</h3>

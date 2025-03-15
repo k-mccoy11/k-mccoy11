@@ -1,15 +1,15 @@
 
 
 
-https://github.com/user-attachments/assets/8dbd931d-c5c4-4da9-9635-92b5d8965542
+https://github.com/user-attachments/assets/ac84a4bc-7b76-42cf-9fbe-75ab3bf33403
 
 
 <h1> Hi, Keyona McCoy  <a href="https://linkedin.com/in/withkmccoy"> here! &#128522; </a> </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chewy&size=25&duration=6000&pause=100&color=9B4EF7&multiline=true&width=1000&height=130&lines=IT+Professional+%7C+QA+Software+Tester;Tech-Savvy+Educator+Turned+IT+Professional;Skilled+in+Troubleshooting%2C+Documentation%2C++Networking%2C+System+Support%2C+%26+QA+Testing;Driven+by+Problem-Solving%2C+Efficiency+%26+User+Support+Excellence" alt="Typing SVG" /></a>
 <hr/>
  
-### 🧰 Languages and Tools 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<h3> 🧰 Languages and Tools </h3>
+ <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -33,9 +33,11 @@ https://github.com/user-attachments/assets/8dbd931d-c5c4-4da9-9635-92b5d8965542
 <img  align="left" alt="Visco" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/cisco-%23049fd9.svg"/>
 <img  align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Trello-%23026AA7.svg"/>
 <img  align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Prometheus-E6522C.svg"/>                           
-<br />
+<br/>
+<br/>
+<br/>
+<h2 align= "center"> A Showcase of My Journey into Tech:&#128513; </h2>
 
-<h2> A Showcase of My Journey into Tech:&#128513; </h2>
 - <b>Microsoft Azure</b>
  <ul>
    <li> <a href="https://github.com/k-mccoy11/traffic-az"> Azure Virtual Network Traffic Analysis & Security  </li>

@@ -1,3 +1,9 @@
+
+
+
+https://github.com/user-attachments/assets/8dbd931d-c5c4-4da9-9635-92b5d8965542
+
+
 <h1> Hi, Keyona McCoy  <a href="https://linkedin.com/in/withkmccoy"> here! &#128522; </a> </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chewy&size=25&duration=6000&pause=100&color=9B4EF7&multiline=true&width=1000&height=130&lines=IT+Professional+%7C+QA+Software+Tester;Tech-Savvy+Educator+Turned+IT+Professional;Skilled+in+Troubleshooting%2C+Documentation%2C++Networking%2C+System+Support%2C+%26+QA+Testing;Driven+by+Problem-Solving%2C+Efficiency+%26+User+Support+Excellence" alt="Typing SVG" /></a>
 <hr/>

@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/ac84a4bc-7b76-42cf-9fbe-75ab3bf33403
  </ul>
 - <b> DNS</b>
   <ul>
-    <li> <a href="[https://github.com/k-mccoy11/vpn](https://github.com/k-mccoy11/dns_practice)"> Domain Name System Practice </li>
+    <li> <a href="https://github.com/k-mccoy11/dns_practice"> Domain Name System Practice </li>
   </ul>
 
 <h3> &#129321; Let's Connect! :</h3>

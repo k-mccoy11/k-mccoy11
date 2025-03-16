@@ -54,9 +54,9 @@ https://github.com/user-attachments/assets/ac84a4bc-7b76-42cf-9fbe-75ab3bf33403
    <li> <a href="https://github.com/k-mccoy11/SDLC"> Software Development Lifecycle: Agile/Scrum </li>
    <li> <a href="https://github.com/k-mccoy11/bug-tracking">Defect Lifecycle </li>
  </ul>
-- <b> Virtual Private Network</b>
+- <b> DNS</b>
   <ul>
-    <li> <a href="https://github.com/k-mccoy11/vpn">Virtual Private Network: Prerequisites and Installation </li>
+    <li> <a href="[https://github.com/k-mccoy11/vpn](https://github.com/k-mccoy11/dns_practice)"> Domain Name System Practice </li>
   </ul>
 
 <h3> &#129321; Let's Connect! :</h3>

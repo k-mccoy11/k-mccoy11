@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/ac84a4bc-7b76-42cf-9fbe-75ab3bf33403
 - <b>Microsoft Azure</b>
  <ul>
    <li> <a href="https://github.com/k-mccoy11/traffic-az"> Azure Virtual Network Traffic Analysis & Security  </li>
-   <li> <a href="https://github.com/k-mccoy11/deploy-active-directory"> Configuring On-premises Active Directory within Azure VMs </li>
+   <li> <a href="https://github.com/k-mccoy11/deploy-active-directory">Active Directory within Azure VMs </li>
  </ul> 
 - <b> osTicket (Help Desk Ticketing System)</b>
  <ul>

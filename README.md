@@ -49,11 +49,6 @@ https://github.com/user-attachments/assets/ac84a4bc-7b76-42cf-9fbe-75ab3bf33403
    <li> <a href="https://github.com/k-mccoy11/post-install-osticket"> osTicket: Post-Installation Configuration </li>
    <li> <a href="https://github.com/k-mccoy11/ticket-lifecycle"> osTicket: Ticket Lifecycle Examples </li>
  </ul>
-- <b> Quality Assurance </b>
- <ul>
-   <li> <a href="https://github.com/k-mccoy11/SDLC"> Software Development Lifecycle: Agile/Scrum </li>
-   <li> <a href="https://github.com/k-mccoy11/bug-tracking">Defect Lifecycle </li>
- </ul>
 - <b> DNS</b>
   <ul>
     <li> <a href="https://github.com/k-mccoy11/dns_practice"> Domain Name System Practice </li>

@@ -9,13 +9,10 @@ https://github.com/user-attachments/assets/ac84a4bc-7b76-42cf-9fbe-75ab3bf33403
 <hr/>
  
 <h3> 🧰 Languages and Tools </h3>
- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
@@ -30,9 +27,7 @@ https://github.com/user-attachments/assets/ac84a4bc-7b76-42cf-9fbe-75ab3bf33403
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 <img  align="left" alt="Confluence" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/confluence-%23172BF4.svg"/> 
-<img  align="left" alt="Visco" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/cisco-%23049fd9.svg"/>
-<img  align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Trello-%23026AA7.svg"/>
-<img  align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Prometheus-E6522C.svg"/>                           
+<img  align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Trello-%23026AA7.svg"/>                    
 <br/>
 <br/>
 <br/>
